@@ -8,4 +8,5 @@ http://www.vector.co.jp/soft/win95/game/se456126.html
 http://homepage2.nifty.com/natupaji/DxLib/index.html
 
 ●ライセンス
+©(´･@･) http://tacoika.blog87.fc2.com/
 GNU GENERAL PUBLIC LICENSE Version 3
